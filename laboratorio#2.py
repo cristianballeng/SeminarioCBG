@@ -8,7 +8,7 @@ Original file is located at
 
 # Pandas vs Polars vs Spark vs Dask
 [Author: Cristian Ballen Gamboa](https://github.com/cristianballeng/SeminarioCBG)
-[Author: Breyner Andreit Rincon Quiroga](Pendiente)
+[Author: Breyner Andreit Rincon Quiroga](https://github.com/Breyner-hue?tab=packages)
 
 Inspired in: https://www.youtube.com/watch?v=mi9f9zOaqM8
 
